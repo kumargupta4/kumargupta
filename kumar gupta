@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kumar Gupta - Vendor</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+            background: url('mechanical_gear_background.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: #fff;
+        }
+
+        header {
+            background: #333;
+            padding: 10px;
+            text-align: center;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Kumar Gupta - Vendor</h1>
+    </header>
+
+    <section>
+        <h2>About Kumar Gupta</h2>
+        <p>Welcome to Kumar Gupta's vendor page. Kumar Gupta is a reliable and experienced vendor specializing in providing high-quality mechanical products and services. With a strong background in the industry, Kumar Gupta is committed to meeting the diverse needs of clients and ensuring customer satisfaction.</p>
+
+        <h2>Products and Services</h2>
+        <p>Kumar Gupta offers a wide range of mechanical products and services, including but not limited to:</p>
+        <ul>
+            <li>Mechanical gears</li>
+            <li>Custom machinery</li>
+            <li>Maintenance and repair services</li>
+            <li>Consultation and expertise</li>
+        </ul>
+
+        <h2>Contact Information</h2>
+        <p>For inquiries and business collaboration, feel free to contact Kumar Gupta:</p>
+        <address>
+            Email: <a href="mailto:kumar.gupta@example.com">kumar.gupta@example.com</a><br>
+            Phone: +1 (123) 456-7890
+        </address>
+    </section>
+</body>
+
+</html>
